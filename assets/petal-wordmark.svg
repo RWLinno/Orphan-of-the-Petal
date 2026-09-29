@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">七色堇的遗孤 · Orphan of the Petal</title>
+  <desc id="desc">Original seven-petal flower wordmark. Documentation art, not gameplay.</desc>
+  <rect width="1200" height="420" rx="12" fill="#181921"/>
+  <path d="M72 345H1128M72 75H1128" stroke="#59575d"/>
+  <g transform="translate(205 207)">
+    <ellipse cy="-56" rx="22" ry="57" fill="#b3a3bd"/>
+    <ellipse cy="-56" rx="22" ry="57" fill="#869fa5" transform="rotate(51.43)"/>
+    <ellipse cy="-56" rx="22" ry="57" fill="#9ba88d" transform="rotate(102.86)"/>
+    <ellipse cy="-56" rx="22" ry="57" fill="#c0ae7f" transform="rotate(154.29)"/>
+    <ellipse cy="-56" rx="22" ry="57" fill="#b8817c" transform="rotate(205.71)"/>
+    <ellipse cy="-56" rx="22" ry="57" fill="#996f87" transform="rotate(257.14)"/>
+    <ellipse cy="-56" rx="22" ry="57" fill="#8886a4" transform="rotate(308.57)"/>
+    <circle r="19" fill="#181921"/><circle r="8" fill="#d1c4a5"/>
+  </g>
+  <text x="365" y="187" fill="#e5ded0" font-family="Noto Serif CJK SC,Songti SC,SimSun,serif" font-size="59" letter-spacing="8">七色堇的遗孤</text>
+  <text x="369" y="246" fill="#aba5af" font-family="Georgia,serif" font-size="33" letter-spacing="3">ORPHAN OF THE PETAL</text>
+  <text x="370" y="290" fill="#7d7a85" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">A DARK FAIRYTALE · AN ORIGINAL GAME BY LINNO</text>
+</svg>
